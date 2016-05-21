@@ -1,0 +1,70 @@
+.formContainer
+{
+    position: relative;
+    width:450px;
+    height:585px;
+    margin:1% auto;
+    padding:0;
+}
+.pSpan
+{
+    font-family: "Segoe UI Light";
+    color:floralwhite;
+    font-size:2.2em;
+    /*,inset 0.3px 0.3px 1px 1px black*/
+}
+.searchbox
+{
+    position:absolute;
+    width:425px;
+    height:475px;
+    text-align:center;
+    font-size:15em;
+    vertical-align:middle;
+    font-family: "Old English Text MT";
+    top:10%;
+    left:2.5%;
+    border:none;
+    outline:none;
+    color: white;
+    background-color: coral;
+    /*animation-name: example;*/
+    /*animation-duration: 7s;*/
+    /*animation-iteration-count: infinite;*/
+
+
+}
+
+.go-Button
+ {
+    font-size:2.2em;
+    font-family: "Segoe UI Light";
+    position:absolute;
+    bottom:1%;
+    left:2.5%;
+    text-decoration: none;
+    color: white;
+    width: 425px;
+    text-align:center;
+    display: inline-block;
+    padding:0;
+ }
+.go-Button:focus
+{
+    background-color: blue;
+}
+/*@keyframes example {*/
+    /*0%   {color: red; }*/
+    /*14.3%  {color: orange; }*/
+    /*28.6%    {color: yellow; }*/
+    /*42.9%  {color: green; }*/
+    /*57.2%  {color: blue; }*/
+    /*71.5%  {color: indigo; }*/
+    /*85.8% {color: darkviolet; }*/
+/*}*/
+
+/* The element to apply the animation to */
+
+
+
+
