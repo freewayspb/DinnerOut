@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bec16c08-82af-4569-a1a2-fb29328d5463" name="Default" comment="" />
+    <list default="true" id="bec16c08-82af-4569-a1a2-fb29328d5463" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Great-London-Wallpaper.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/London-Wallpaper-for-Computer.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/London-Wallpapers-HD.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Terrific-London-Wallpaper.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/bb5c66f45e11618c1a4e2de1b4cfacaa_large.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/form1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/searchAndLocationButton.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/startFormImg1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/startFormImg11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/startFormImg2.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/startFormImg4 .JPG" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="DinnerOut.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -223,12 +236,12 @@
       <workItem from="1463725940621" duration="797000" />
       <workItem from="1463726808690" duration="6821000" />
       <workItem from="1463838710232" duration="3621000" />
-      <workItem from="1463842381812" duration="1009000" />
+      <workItem from="1463842381812" duration="1520000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="85754000" />
+    <option name="totallyTimeSpent" value="86265000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="32" width="1382" height="744" extended-state="6" />
