@@ -1,0 +1,24 @@
+<div class="total-container">
+    <span class="orderSpan">Оформим заказ</span>
+<div class="form-container">
+
+
+    <div ng-repeat="person in peoplesMassive" class="person-container">
+        <input class="nameInput" type="text" ng-model="person.name" placeholder="Имя" required>
+            <input class="priceInput" type="text" ng-model="person.price" placeholder="Введите сумму" required>
+
+    </div>
+
+
+
+    <div class="discount-container">
+        <input class="discInput" type="text" ng-model="discount" placeholder="Скидка">
+        <select id="select" ng-change="getChange(this)" ng-model="select">
+            <option value="0" class="percent" ng-model="percent" selected>%</option>
+            <option value="1" class="ruble" ng-model="ruble">р.</option>
+        </select>
+        <input class="drinkInput" type="text" ng-model="drink" placeholder="Общее блюдо">
+    </div>
+</div>
+    <a href="javascript:void(0)" class="butt next-Button" ng-click="click1()">Далее</a>
+</div>

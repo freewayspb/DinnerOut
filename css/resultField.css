@@ -1,0 +1,57 @@
+.total-container1
+{
+    position: relative;
+    width:450px;
+    height:585px;
+    margin:1% auto;
+    padding:0;
+}
+.orderSpan1
+{
+    font-family: "Segoe UI Light";
+    color:floralwhite;
+    font-size:2.2em;
+    position: inherit;
+    left:20%;
+}
+.form-container1
+{
+    position: inherit;
+    width:425px;
+    height:475px;
+    font-family: "Segoe UI Light";
+    background-color: coral;
+    top:12px;
+    left:2.5%;
+}
+p
+{
+    color:white;
+    display: inline-block;
+}
+.Pname
+{
+    color: white;
+    font-family: "Segoe UI Light";
+    font-size: 25px;
+    height:30px;
+    width:45%;
+    border:none;
+    outline:none;
+    border-bottom:1px solid black;
+    margin: 0 5px 5px 5px;
+
+}
+.Ptotal
+{
+    color: black;
+    font-family: "Segoe UI Light";
+    font-size: 25px;
+    height:30px;
+    width:45%;
+    border:none;
+    outline:none;
+    border-bottom:1px solid black;
+    margin: 0 5px 5px 5px;
+
+}
